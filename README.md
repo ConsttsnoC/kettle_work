@@ -31,8 +31,9 @@
 <p>Чтобы запустить приложение через Docker, выполните следующие шаги:</p>
 <ol>
 <li>Загрузите и установите <a href="https://www.docker.com/products/docker-desktop/">Docker</a></li>
+<li>Перейти в папку с приложением<code>cd \Test_ITOB></code></li>
 <li>Собрать проект <code>docker-compose build</code></li>
-<li>Запустить проект <code>docker-compose up</code></li>
+<li>Запустить проект <code>python app.py</code></li>
 <li>Перейти в консоль и ввести <code>python kettle_work.py</code></li>
 <li>Следовать инструкции на консоли</li>
 </ol>
