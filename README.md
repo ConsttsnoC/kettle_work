@@ -12,15 +12,20 @@
 </p>
 <!-- Иконки -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-4.1.6-green">
+  <img src="https://img.shields.io/badge/Flask-2.2.3-green">
   <img src="https://img.shields.io/badge/Python-3.10.7-blue">
-  <img src="https://img.shields.io/badge/Stripe-API-orange">
+  <img src="https://img.shields.io/badge/transitions-0.9.0">
   <img src="https://img.shields.io/badge/Deploy-Docker-blueviolet">
 </p>
 
  <div>
       <h1>Всем привет, я <a href="https://www.gilmanov.net/" target="_blank">Константин</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-      <h3>Этот репозиторий содержит решение тестового задания по созданию "Машина состояний электрочайника"</h3>
+      <h3>Этот репозиторий содержит решение тестового задания по созданию "Машина состояний электрочайника"
+Так же добавленно:
+        <li>Создано на Flask</li>
+        <li>Запись и просмотр сообщений по дате в SQLite</li>
+        <li>Добавленно логирование в файл</li>
+        <li>Параметры чайника задаются в файле конфигурации</li></h3>
 
 <h3><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30"/> Docker</h3>
 <p>Чтобы запустить приложение через Docker, выполните следующие шаги:</p>
@@ -29,4 +34,5 @@
 <li>Собрать проект <code>docker-compose build</code></li>
 <li>Запустить проект <code>docker-compose up</code></li>
 <li>Перейти в консоль и ввести <code>python kettle_work.py</code><li>
+<li>Следовать инструкции на консоли<li>
 </ol>
