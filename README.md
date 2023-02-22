@@ -24,7 +24,8 @@
         <li>Создано на Flask</li>
         <li>Запись и просмотр сообщений по дате в SQLite</li>
         <li>Добавленно логирование в файл</li>
-        <li>Параметры чайника задаются в файле конфигурации</li></h3>
+        <li>Параметры чайника задаются в файле конфигурации</li>
+        <li>Форматирование кода с помощью autopep8</li></h3>
 
 <h3><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30"/> Docker</h3>
 <p>Чтобы запустить приложение через Docker, выполните следующие шаги:</p>
